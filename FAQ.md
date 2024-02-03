@@ -6,7 +6,10 @@
 
 ## 怎么用？有教程吗？我iOS过来的，怎么搞？
 
-去YouTube、哔哩哔哩、google、百度学一下Xposed模块，有root学LSPosed，没root学LSPatch。  
+去YouTube、哔哩哔哩、google、百度学一下Xposed模块，有root学LSPosed，没root学LSPatch。 
+
+LSPatch教程😋
+https://duzhaokun123.github.io/2022/05/06/simple-lspatch-guide.html 
 
 ## 有xx功能吗？后面支持xx功能吗？
 
