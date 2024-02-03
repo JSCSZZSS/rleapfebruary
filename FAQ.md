@@ -7,3 +7,7 @@
 ## 怎么用？有教程吗？我iOS过来的，怎么搞？
 
 去YouTube、哔哩哔哩、google、百度学一下Xposed模块，有root学LSPosed，没root学LSPatch。  
+
+## 有xx功能吗？后面支持xx功能吗？
+
+现在有的功能装上就能看到了；会不会加什么功能，可以许愿，加不加后面看情况。  
