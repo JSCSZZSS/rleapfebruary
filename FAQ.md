@@ -17,5 +17,5 @@ https://duzhaokun123.github.io/2022/05/06/simple-lspatch-guide.html
 
 ## 制作共存包不能用？
 
-确保你的共存版微信包名是以 com.tencnet 开头即可，不需要另外再修改此包内容。  
+确保你的共存版微信包名是以 com.tencent 开头即可，不需要另外再修改此包内容。  
 
