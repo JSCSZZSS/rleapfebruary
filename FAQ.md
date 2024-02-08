@@ -19,3 +19,7 @@ https://duzhaokun123.github.io/2022/05/06/simple-lspatch-guide.html
 
 确保你的共存版微信包名是以 com.tencent 开头即可，不需要另外再修改此包内容。  
 
+## ChatGPT功能需要自备OpenAI APIKEY吗？需要自备梯子吗？能使用自己的OpenAI APIKEY吗？
+
+不需要自备APIKEY和梯子；暂不支持使用自己的APIKEY。  
+
