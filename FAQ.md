@@ -42,6 +42,10 @@
 
 -------------------------------------
 
+## 为什么在群里面提问没人解答？
+
+![question.png](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.r.leapfebruary/master/img/question.png)
+
 ## 什么是推荐版本？  
 
 跟作者用一样的版本，问题更少，有问题修复的更快。  
@@ -64,4 +68,5 @@ https://duzhaokun123.github.io/2022/05/06/simple-lspatch-guide.html
 ## ChatGPT功能需要自备OpenAI APIKEY吗？需要自备梯子吗？能使用自己的OpenAI APIKEY吗？
 
 不需要自备APIKEY和梯子；暂不支持使用自己的APIKEY。  
+
 
