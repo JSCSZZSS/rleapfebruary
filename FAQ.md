@@ -42,9 +42,13 @@
 
 跟作者用一样的版本，问题更少，有问题修复的更快。  
 
+## 为什么有微信安装包下载？为什么要限制微信版本？应用商店下载的微信安装插件能用吗？从xx下载的微信能用吗?  
+
+微信版本众多，还有可能出现微信版本号相同，内容不同的情况；所以请尽量使用提供的推荐微信版本，使用非推荐版本可能会出现一些奇奇怪怪的问题。
+
 ## 怎么用？有教程吗？我iOS过来的，怎么搞？
 
-去YouTube、哔哩哔哩、google、百度学一下Xposed模块，有root学LSPosed，没root学LSPatch。 
+去YouTube、哔哩哔哩、google、百度学一下Xposed模块，有root学LSPosed，没root学LSPatch。  
 
 LSPatch教程😋
 https://duzhaokun123.github.io/2022/05/06/simple-lspatch-guide.html 
@@ -60,5 +64,3 @@ https://duzhaokun123.github.io/2022/05/06/simple-lspatch-guide.html
 ## ChatGPT功能需要自备OpenAI APIKEY吗？需要自备梯子吗？能使用自己的OpenAI APIKEY吗？
 
 不需要自备APIKEY和梯子；暂不支持使用自己的APIKEY。  
-
-
