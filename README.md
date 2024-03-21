@@ -14,7 +14,8 @@ GooglePlay 版本:8.0.42
 ## 下载  
 
 + 模块最新版  
-2.33 [地址1](https://bitbucket.org/prong6542/com.r.leapfebruary/downloads/leapfebruary_233_2.33.apk)
+2.33
+[地址1](https://bitbucket.org/prong6542/com.r.leapfebruary/downloads/leapfebruary_233_2.33.apk)
 [地址2](https://sourceforge.net/projects/com-r-leapfebruary/files/233-2.33/leapfebruary_233_2.33.apk) 
 [地址3](https://github.com/Xposed-Modules-Repo/com.r.leapfebruary/releases/download/233-2.33/leapfebruary_233_2.33.apk)
 
