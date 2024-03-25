@@ -14,18 +14,14 @@ GooglePlay 版本:8.0.42
 ## 下载  
 
 + 模块最新版  
+2.36
+[地址1](https://bitbucket.org/prong6542/com.r.leapfebruary/downloads/leapfebruary_236_2.36.apk)
+[地址2](https://sourceforge.net/projects/com-r-leapfebruary/files/236-2.36/leapfebruary_236_2.36.apk) 
+[地址3](https://github.com/Xposed-Modules-Repo/com.r.leapfebruary/releases/download/236-2.36/leapfebruary_236_2.36.apk)  
 2.35
 [地址1](https://bitbucket.org/prong6542/com.r.leapfebruary/downloads/leapfebruary_235_2.35.apk)
 [地址2](https://sourceforge.net/projects/com-r-leapfebruary/files/235-2.35/leapfebruary_235_2.35.apk) 
 [地址3](https://github.com/Xposed-Modules-Repo/com.r.leapfebruary/releases/download/235-2.35/leapfebruary_235_2.35.apk)  
-2.34
-[地址1](https://bitbucket.org/prong6542/com.r.leapfebruary/downloads/leapfebruary_234_2.34.apk)
-[地址2](https://sourceforge.net/projects/com-r-leapfebruary/files/234-2.34/leapfebruary_234_2.34.apk) 
-[地址3](https://github.com/Xposed-Modules-Repo/com.r.leapfebruary/releases/download/234-2.34/leapfebruary_234_2.34.apk)  
-2.33
-[地址1](https://bitbucket.org/prong6542/com.r.leapfebruary/downloads/leapfebruary_233_2.33.apk)
-[地址2](https://sourceforge.net/projects/com-r-leapfebruary/files/233-2.33/leapfebruary_233_2.33.apk) 
-[地址3](https://github.com/Xposed-Modules-Repo/com.r.leapfebruary/releases/download/233-2.33/leapfebruary_233_2.33.apk)
 
 + 官网版本微信安装包下载  
 8.0.48 (weixin8048android2580_0x28003033_arm64)
@@ -35,18 +31,14 @@ GooglePlay 版本:8.0.42
 [地址4](https://github.com/Xposed-Modules-Repo/com.r.leapfebruary/releases/download/233-2.33/weixin8048android2580_0x28003033_arm64.apk)
 
 + 微信内置模块安装包下载  
+8.0.48-2.36
+[地址1](https://bitbucket.org/prong6542/com.r.leapfebruary/downloads/weixin8048android2580_0x28003033_arm64_leapfebruary_2.36.apk)
+[地址2](https://sourceforge.net/projects/com-r-leapfebruary/files/236-2.36/weixin8048android2580_0x28003033_arm64_leapfebruary_2.36.apk) 
+[地址3](https://github.com/Xposed-Modules-Repo/com.r.leapfebruary/releases/download/236-2.36/weixin8048android2580_0x28003033_arm64_leapfebruary_2.36.apk)  
 8.0.48-2.35
 [地址1](https://bitbucket.org/prong6542/com.r.leapfebruary/downloads/weixin8048android2580_0x28003033_arm64_leapfebruary_2.35.apk)
 [地址2](https://sourceforge.net/projects/com-r-leapfebruary/files/235-2.35/weixin8048android2580_0x28003033_arm64_leapfebruary_2.35.apk) 
 [地址3](https://github.com/Xposed-Modules-Repo/com.r.leapfebruary/releases/download/235-2.35/weixin8048android2580_0x28003033_arm64_leapfebruary_2.35.apk)  
-8.0.48-2.34
-[地址1](https://bitbucket.org/prong6542/com.r.leapfebruary/downloads/weixin8048android2580_0x28003033_arm64_leapfebruary_2.34.apk)
-[地址2](https://sourceforge.net/projects/com-r-leapfebruary/files/234-2.34/weixin8048android2580_0x28003033_arm64_leapfebruary_2.34.apk) 
-[地址3](https://github.com/Xposed-Modules-Repo/com.r.leapfebruary/releases/download/234-2.34/weixin8048android2580_0x28003033_arm64_leapfebruary_2.34.apk)  
-8.0.48-2.33
-[地址1](https://bitbucket.org/prong6542/com.r.leapfebruary/downloads/weixin8048android2580_0x28003033_arm64_leapfebruary_2.33.apk)
-[地址2](https://sourceforge.net/projects/com-r-leapfebruary/files/233-2.33/weixin8048android2580_0x28003033_arm64_leapfebruary_2.33.apk) 
-[地址3](https://github.com/Xposed-Modules-Repo/com.r.leapfebruary/releases/download/233-2.33/weixin8048android2580_0x28003033_arm64_leapfebruary_2.33.apk)
 
 ## 交流  
 
